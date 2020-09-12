@@ -20,6 +20,8 @@ This framework offers flexibility on configuring the following:
 - time horizon and base year
 - most assumptions: techno-economic, fuel price, carbon cost, emission limits, development potentials etc.
 
+---
+
 ### Requirements
 GEDM has been tested on Windows. Running GEDM requires the following environment:
 - the [Python3](https://www.python.org/downloads/release/python-368/) programming language (version 3.6 or greater)
@@ -37,6 +39,8 @@ Using this tool by following these steps:
 
 Users are expected to have experiences on Python. The main reason is that when infeasible solutions returned, the users may want greater control over the program flow and the models to find the causes, more than changing the settings and assumption. In addition, Pyomo and solvers may occasionally have compatible issues. It would require some Python experience and change the codes to solve it.
 
+---
+
 ### Main components
 The overall framework and program flow is shown below. The electricity dispatch (ED) model (md_main.py, md_ED_\*.py) deals with the generation dispatch decisions for all generators, taking into account operation constraints of conventional thermal plants and storage systems, variability of renewable generation, and inter-zone transmission. The ED model solves each daily dispatch problem individually. Essential outputs include CO2 emissions, fuel consumption, electricity flows, and cost etc.
 
@@ -45,6 +49,7 @@ The capacity expansion (CE) model (md_CE_\*.py) decides the optimal new installa
 An input data processing module (impt_\*.py) is developed to convert the inputs according to the market structure, temporal resolution, time zone etc. Base year, time horizon, time periods and time-slices are configurable. The original system demand and renewable generation have to be given in hourly resolution to allow such conversion. Another data processing module is constructed to extract model solutions and convert the results into readable tables (\*_output.py) in CSV files.
 
 ![Program Flow](/img/program_flow.jpg)
+
 
 ### Formulation of the core models
 The ED and CE models are the core components formulated into linear programming problems.
@@ -56,6 +61,7 @@ Details about the model formulation can be seen in [this document]().
 Most settings and assumptions are separated from the codes. Users can freely design theirs models. The tables below summarize the purpose of the inputs files which set up the models.
 
 **Model configuration**
+
 folder path: /Input/1_model_config/
 | File | Description |
 | ------ | ------ |
@@ -69,6 +75,7 @@ folder path: /Input/1_model_config/
 | 22_Zone_TimeZone.csv | set the time zone for each zone |
 
 **Commodity/fuel assumptions**
+
 folder path: /Input/2_commodity/
 | File | Description |
 | ------ | ------ |
@@ -77,6 +84,7 @@ folder path: /Input/2_commodity/
 | 03_CommodityCost.csv | set the cost projection of the commodity groups |
 
 **Process/technology assumptions**
+
 folder path: /Input/3_process/
 | File | Description |
 | ------ | ------ |
@@ -92,6 +100,7 @@ folder path: /Input/3_process/
 | 04_Transmission.csv | set technical and cost assumptions of transmission links |
 
 **Policy assumptions**
+
 folder path: /Input/4_policy/
 | File | Description |
 | ------ | ------ |
@@ -103,6 +112,7 @@ folder path: /Input/4_policy/
 | /RE_MCP70/\*.csv | set the optimal renewable mix projections of each country/district applied in MCP scenario |
 
 **Existing capacity and calibration**
+
 folder path: /Input/5_calibration/
 | File | Description |
 | ------ | ------ |
@@ -112,6 +122,7 @@ folder path: /Input/5_calibration/
 | /Zone_Exist_Process_offshore/\*.csv | set the capacity and lifetime of existing processes in offshore zones |
 
 **Transmission**
+
 folder path: /Input/6_transmission/
 | File | Description |
 | ------ | ------ |
@@ -119,6 +130,7 @@ folder path: /Input/6_transmission/
 | 02_Zone_conn_base_offshore.csv | set offshore links: zone connection, length, base year capacity |
 
 **Electricity demand profile**
+
 folder path: /Input/7_demand/
 | File | Description |
 | ------ | ------ |
@@ -126,6 +138,7 @@ folder path: /Input/7_demand/
 | /Zone_8760/\*.csv | zonal demand profile projections in hourly resolution |
 
 **Renewables**
+
 folder path: /Input/8_VRE/
 | File | Description |
 | ------ | ------ |
@@ -159,4 +172,4 @@ The data processing module extracts solutions returned from the solver, summariz
   
 ---
 ### License
-This package is licensed under the [MIT License](/LICENSE.txt).
+This package is licensed under the [MIT License](/LICENSE).
