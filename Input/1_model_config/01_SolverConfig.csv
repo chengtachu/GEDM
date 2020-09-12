@@ -1,0 +1,8 @@
+Setting,Item,Value,Activate,Note
+Solver,Solver,gams,1,Solver: gams or glpk or others 
+Pyomo options,tmpdir,C:/GAMS/pyomo/,1,Pyomo options. Implemented as options['Item'] = Value.
+Pyomo options,warmstart,TRUE,0,Pyomo options. Implemented as options['Item'] = Value.
+Pyomo options,symbolic_solver_labels,TRUE,0,Pyomo options. Implemented as options['Item'] = Value.
+Pyomo options,keepfiles,TRUE,0,Pyomo options. Implemented as options['Item'] = Value.
+Solver options,GAMS_MODEL.optfile,1,1,"Additional options sent to solver. Implemented as opt.options['add_options'] = "" Item = value"""
+Solver options,GAMS_MODEL.optcr,0.1,1,"Additional options sent to solver. Implemented as opt.options['add_options'] = "" Item = value"""

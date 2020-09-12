@@ -1,0 +1,45 @@
+Zone code,Zone ID,Item,Item,2015,2020,2025,2030
+TWN.Central,TWNZ0,Fuel Consumption (TJ),Coal,386306,386682,396524,353295
+TWN.Central,TWNZ0,Fuel Consumption (TJ),Gas,104520,92907,13105,8737
+TWN.Central,TWNZ0,Fuel Consumption (TJ),Oil,0,0,0,0
+TWN.Central,TWNZ0,Fuel Consumption (TJ),Uranium,0,0,0,0
+TWN.Central,TWNZ0,Fuel Consumption (TJ),Biomass,5531,7914,4144,5395
+TWN.East,TWNZ1,Fuel Consumption (TJ),Coal,30198,11270,23991,24385
+TWN.East,TWNZ1,Fuel Consumption (TJ),Gas,616,547,410,274
+TWN.East,TWNZ1,Fuel Consumption (TJ),Oil,3643,3238,2428,1619
+TWN.East,TWNZ1,Fuel Consumption (TJ),Uranium,0,0,0,0
+TWN.East,TWNZ1,Fuel Consumption (TJ),Biomass,1436,1217,1312,914
+TWN.North,TWNZ2,Fuel Consumption (TJ),Coal,361055,362786,838593,1007812
+TWN.North,TWNZ2,Fuel Consumption (TJ),Gas,212219,188639,141479,94320
+TWN.North,TWNZ2,Fuel Consumption (TJ),Oil,106877,95002,71251,0
+TWN.North,TWNZ2,Fuel Consumption (TJ),Uranium,293666,293666,0,0
+TWN.North,TWNZ2,Fuel Consumption (TJ),Biomass,17295,17557,15524,15600
+TWN.South,TWNZ3,Fuel Consumption (TJ),Coal,457234,457575,579616,634571
+TWN.South,TWNZ3,Fuel Consumption (TJ),Gas,78395,69684,14258,9506
+TWN.South,TWNZ3,Fuel Consumption (TJ),Oil,0,0,0,0
+TWN.South,TWNZ3,Fuel Consumption (TJ),Uranium,168645,168645,0,0
+TWN.South,TWNZ3,Fuel Consumption (TJ),Biomass,4387,1961,7669,6739
+TWN.Central,TWNZ0,Emission (K.Tonnes),Total,42408.7,41793.0,38246.8,33912.3
+TWN.Central,TWNZ0,Emission (K.Tonnes),CCS sequestration,0.0,0.0,0.0,0.0
+TWN.East,TWNZ1,Emission (K.Tonnes),Total,3158.4,1334.3,2470.7,2441.0
+TWN.East,TWNZ1,Emission (K.Tonnes),CCS sequestration,0.0,0.0,0.0,0.0
+TWN.North,TWNZ2,Emission (K.Tonnes),Total,53926.5,51897.0,92492.2,100631.9
+TWN.North,TWNZ2,Emission (K.Tonnes),CCS sequestration,0.0,0.0,0.0,0.0
+TWN.South,TWNZ3,Emission (K.Tonnes),Total,47669.6,47212.9,55632.3,60564.3
+TWN.South,TWNZ3,Emission (K.Tonnes),CCS sequestration,0.0,0.0,0.0,0.0
+TWN.Central,TWNZ0,Marginal Gen. Cost (USD/kWh),,0.0642,0.0624,0.0782,0.0695
+TWN.East,TWNZ1,Marginal Gen. Cost (USD/kWh),,0.1017,0.1408,0.1384,0.1243
+TWN.North,TWNZ2,Marginal Gen. Cost (USD/kWh),,0.0928,0.1628,0.1969,0.0741
+TWN.South,TWNZ3,Marginal Gen. Cost (USD/kWh),,0.0653,0.0618,0.0691,0.0669
+TWN.Central,TWNZ0,Variable Gen. Cost (M.USD),,2207.89,2976.46,2681.95,2652.92
+TWN.Central,TWNZ0,Fixed annual Cost (M.USD),,1616.63,1804.33,2120.46,2297.90
+TWN.East,TWNZ1,Variable Gen. Cost (M.USD),,139.38,123.30,211.03,215.64
+TWN.East,TWNZ1,Fixed annual Cost (M.USD),,55.20,185.87,212.26,544.25
+TWN.North,TWNZ2,Variable Gen. Cost (M.USD),,4672.11,5633.80,8199.93,8383.37
+TWN.North,TWNZ2,Fixed annual Cost (M.USD),,1882.89,2037.68,2066.09,2223.19
+TWN.South,TWNZ3,Variable Gen. Cost (M.USD),,2350.59,3288.08,3886.04,4667.50
+TWN.South,TWNZ3,Fixed annual Cost (M.USD),,1570.64,1780.69,2000.67,2301.17
+TWN.OffRgn1,TWNZF0,Fixed annual Cost (M.USD),,70.08,70.08,70.08,0.00
+TWN.OffRgn2,TWNZF1,Fixed annual Cost (M.USD),,0.00,0.00,0.00,0.00
+TWN.OffRgn3,TWNZF2,Fixed annual Cost (M.USD),,0.00,0.00,0.00,0.00
+TWN.OffRgn4,TWNZF3,Fixed annual Cost (M.USD),,0.00,0.00,0.00,0.00

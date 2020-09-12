@@ -1,0 +1,17 @@
+Country/District Code,Zone_Code,Target_type,Process_type,Year,Value
+GBR,GBR.Scotland,Percentage,RE,2020,100
+GBR,All,Percentage,Wind,2030,33
+TWN,All,Percentage,RE,2025,20
+KOR,All,Generation,RE,2030,39517
+KOR,All,Generation,Biomass,2030,4129
+KOR,All,Generation,Geothermal,2030,2046
+KOR,All,Generation,Hydro,2030,5786
+KOR,All,Generation,Hydro_small,2030,1926
+KOR,All,Generation,PV,2030,3963
+KOR,All,Generation,Wind,2030,16619
+GBR,All,Capacity,Wind,2030,39000
+TWN,All,Capacity,PV,2020,6500
+TWN,All,Capacity,PV,2025,20000
+TWN,All,Capacity,Wind,2020,1334
+TWN,All,Capacity,Wind,2025,6700
+TWN,All,Capacity,Geothermal,2025,200

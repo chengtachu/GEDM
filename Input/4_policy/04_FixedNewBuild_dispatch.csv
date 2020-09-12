@@ -1,0 +1,13 @@
+NAME,Country/District Code,Process,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060
+United Kingdom,GBR,COA_SC_CCS,0,0,,,,,,,,
+Taiwan,TWN,COA_SC_CCS,0,0,0,,,,,,,
+United Kingdom,GBR,COA_OXY_CCS,0,0,,,,,,,,
+Taiwan,TWN,COA_OXY_CCS,0,0,0,,,,,,,
+United Kingdom,GBR,COA_IGCC_CCS,0,0,,,,,,,,
+Taiwan,TWN,COA_IGCC_CCS,0,0,0,,,,,,,
+United Kingdom,GBR,GAS_CC_CCS,0,0,,,,,,,,
+Taiwan,TWN,GAS_CC_CCS,0,0,0,,,,,,,
+United Kingdom,GBR,BIGCC_CCS,0,0,0,,,,,,,
+Taiwan,TWN,BIGCC_CCS,0,0,0,,,,,,,
+United Kingdom,GBR,NUK_LWR,0,0,1680,,,,,,,
+Taiwan,TWN,NUK_LWR,0,0,0,0,0,0,0,0,0,0

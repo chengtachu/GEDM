@@ -1,0 +1,13 @@
+Zone code,Zone ID,Item,Item,2015,2020,2025,2030,2035,2040,2045,2050
+CRI.All,CRIZ0,Fuel Consumption (TJ),Coal,226,0,0,0,0,0,0,0
+CRI.All,CRIZ0,Fuel Consumption (TJ),Gas,1160,1616,21288,0,0,0,0,0
+CRI.All,CRIZ0,Fuel Consumption (TJ),Oil,12627,25559,4439,0,0,0,0,0
+CRI.All,CRIZ0,Fuel Consumption (TJ),Uranium,0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,Fuel Consumption (TJ),Biomass,1338,0,7329,0,0,0,0,0
+CRI.All,CRIZ0,Emission (K.Tonnes),Total,1012.0,1964.1,1520.4,0,0,0,0,0
+CRI.All,CRIZ0,Emission (K.Tonnes),CCS sequestration,0.0,0.0,0.0,0,0,0,0,0
+CRI.All,CRIZ0,Marginal Gen. Cost (USD/kWh),,0.0504,0.0973,0.1255,0,0,0,0,0
+CRI.All,CRIZ0,Variable Gen. Cost (M.USD),,135.64,373.51,395.86,0,0,0,0,0
+CRI.All,CRIZ0,Fixed annual Cost (M.USD),,502.50,492.11,518.17,0,0,0,0,0
+CRI.OffRgn1,CRIZF0,Fixed annual Cost (M.USD),,0.00,0.00,0.00,0,0,0,0,0
+CRI.OffRgn2,CRIZF1,Fixed annual Cost (M.USD),,0.00,0.00,0.00,0,0,0,0,0

@@ -1,0 +1,6 @@
+
+
+
+04_FixedNewBuild_dispatch.csv 是特定年分
+必須跟year step period match 才有限制
+但若是在兩個有設定的period中間 就會預設成0

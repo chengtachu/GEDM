@@ -1,0 +1,4 @@
+Country/District Code,Unit (GWh),generation (GWh),generation (GWh),generation (GWh),generation (GWh),generation (GWh),Eff%,Eff%,Eff%,Eff%,Eff%,generation (GWh),generation (GWh),generation (GWh),generation (GWh),generation (GWh),generation (GWh),generation (GWh),own use,own use,own use,own use,losses
+Country/District Code,Flow,Total Coal,Gas,Total Oil,Nuclear,Biofuel waste,Total Coal,Gas,Total Oil,Nuclear,Biofuel waste,Total output (GWh),main electricity,auto electricity,main CHP,auto CHP,import,export,total,generation,pump-hydro,industry,losses
+TWN,Chinese Taipei,84961,76108,11575,36471,3788,0.385,0.5263,0.418,0.3299,0.1993,258025,218783,3708,3698,31836,0,0,19107,11609,3725,3773,8147
+GBR,United Kingdom,76567,100033,755,70345,32972,0.3787,0.5219,0.2981,0.3299,0.3958,339095,290519,29318,0,19258,22716,-1778,28053,16671,3711,7671,29129

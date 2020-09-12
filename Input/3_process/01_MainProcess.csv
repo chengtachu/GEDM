@@ -1,0 +1,31 @@
+ProcessName,ProcessType,ProcessFullName,Fuel,OperationMode,CCS,AS_T1,AS_T2,AS_T3
+COA_SUB,coal,Subcritical Coal,coal,Dispatch,0,1,1,1
+COA_SC,coal,Supercritical Coal,coal,Dispatch,0,1,1,1
+COA_USC,coal,Ultra-supercritical Coal,coal,Dispatch,0,1,1,1
+COA_IGCC,coal,IGCC Coal,coal,Dispatch,0,1,1,1
+COA_SC_CCS,coal,CCS Supercritical Coal,coal,Dispatch,1,1,1,1
+COA_OXY_CCS,coal,CCS Oxyfuel Coal,coal,Dispatch,1,1,1,1
+COA_IGCC_CCS,coal,CCS IGCC Coal,coal,Dispatch,1,1,1,1
+GAS_OCGT,gas,OCGT Gas,gas,Dispatch,0,1,1,1
+GAS_CCGT,gas,CCGT Gas,gas,Dispatch,0,1,1,1
+GAS_CC_CCS,gas,CCS CCGT Gas,gas,Dispatch,1,1,1,1
+OIL_ST,oil,Steam Turbin Oil,oil,Dispatch,0,1,1,1
+NUK_LWR,nuclear,LWR Nuclear,uranium,Dispatch,0,0,0,1
+HYD_LG,renewable,Large Hydro,hydro,NonDispatch,0,1,1,0
+HYD_SM,renewable,Small Hydro,hydro,NonDispatch,0,1,1,0
+HYD_PS,storage,Pump Storage Hydro,NA,Storage,0,1,1,0
+WND_ON,renewable,Onshore Wind,wind,NonDispatch,0,0,0,0
+WND_OFF_SH,renewable,Offshore Wind - shallow water,wind,NonDispatch,0,0,0,0
+WND_OFF_IN,renewable,Offshore Wind - int. water,wind,NonDispatch,0,0,0,0
+WND_OFF_DE,renewable,Offshore Wind - deep water,wind,NonDispatch,0,0,0,0
+PV_FT,renewable,Utility-scale PV fixed-tilt,solar,NonDispatch,0,0,0,0
+PV_TK,renewable,Utility-scale PV one-axis tracking,solar,NonDispatch,0,0,0,0
+PV_Dist,renewable,Distributed PV,solar,NonDispatch,0,0,0,0
+CSP_ST6,renewable,CSP SM2 6 hours storage,solar,NonDispatch,0,0,0,0
+CSP_ST9,renewable,CSP SM2.5 9 hours storage,solar,NonDispatch,0,0,0,0
+GEO_hydro,renewable,Geothermal power,geo,NonDispatch,0,0,0,0
+BIO_ST,renewable,Biomass power plant,biomass,Dispatch,0,1,1,1
+BIGCC_CCS,renewable,Biomass CCS,biomass,Dispatch,1,1,1,1
+BESS_ST1,storage,Li-ion Batteries 1 hour storage,NA,Storage,0,1,1,0
+BESS_ST4,storage,Li-ion Batteries 4 hour storage,NA,Storage,0,1,1,0
+BESS_ST8,storage,Li-ion Batteries 8 hour storage,NA,Storage,0,1,1,0

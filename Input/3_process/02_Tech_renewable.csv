@@ -1,0 +1,571 @@
+ProcessName,RegionGroup,Parameters,Unit,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060
+HYD_LG,Europe,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+HYD_LG,United States,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+HYD_LG,Japan,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+HYD_LG,Russia,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+HYD_LG,China,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+HYD_LG,India,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+HYD_LG,Middle East,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+HYD_LG,Africa,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+HYD_LG,Brazil,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+HYD_LG,Europe,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_LG,United States,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_LG,Japan,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_LG,Russia,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_LG,China,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_LG,India,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_LG,Middle East,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_LG,Africa,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_LG,Brazil,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_LG,Europe,MinLoad,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+HYD_LG,United States,MinLoad,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+HYD_LG,Japan,MinLoad,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+HYD_LG,Russia,MinLoad,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+HYD_LG,China,MinLoad,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+HYD_LG,India,MinLoad,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+HYD_LG,Middle East,MinLoad,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+HYD_LG,Africa,MinLoad,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+HYD_LG,Brazil,MinLoad,,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+HYD_LG,Europe,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_LG,United States,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_LG,Japan,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_LG,Russia,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_LG,China,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_LG,India,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_LG,Middle East,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_LG,Africa,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_LG,Brazil,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_LG,Europe,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_LG,United States,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_LG,Japan,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_LG,Russia,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_LG,China,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_LG,India,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_LG,Middle East,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_LG,Africa,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_LG,Brazil,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_LG,Europe,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_LG,United States,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_LG,Japan,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_LG,Russia,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_LG,China,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_LG,India,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_LG,Middle East,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_LG,Africa,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_LG,Brazil,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_SM,Europe,UnitCapacity,MW,10,10,10,10,10,10,10,10,10,10
+HYD_SM,United States,UnitCapacity,MW,10,10,10,10,10,10,10,10,10,10
+HYD_SM,Japan,UnitCapacity,MW,10,10,10,10,10,10,10,10,10,10
+HYD_SM,Russia,UnitCapacity,MW,10,10,10,10,10,10,10,10,10,10
+HYD_SM,China,UnitCapacity,MW,10,10,10,10,10,10,10,10,10,10
+HYD_SM,India,UnitCapacity,MW,10,10,10,10,10,10,10,10,10,10
+HYD_SM,Middle East,UnitCapacity,MW,10,10,10,10,10,10,10,10,10,10
+HYD_SM,Africa,UnitCapacity,MW,10,10,10,10,10,10,10,10,10,10
+HYD_SM,Brazil,UnitCapacity,MW,10,10,10,10,10,10,10,10,10,10
+HYD_SM,Europe,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_SM,United States,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_SM,Japan,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_SM,Russia,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_SM,China,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_SM,India,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_SM,Middle East,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_SM,Africa,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_SM,Brazil,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+HYD_SM,Europe,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_SM,United States,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_SM,Japan,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_SM,Russia,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_SM,China,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_SM,India,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_SM,Middle East,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_SM,Africa,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_SM,Brazil,RampRate,%P/Min,20,20,20,20,20,20,20,20,20,20
+HYD_SM,Europe,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_SM,United States,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_SM,Japan,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_SM,Russia,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_SM,China,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_SM,India,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_SM,Middle East,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_SM,Africa,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_SM,Brazil,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+HYD_SM,Europe,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_SM,United States,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_SM,Japan,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_SM,Russia,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_SM,China,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_SM,India,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_SM,Middle East,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_SM,Africa,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+HYD_SM,Brazil,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_ON,Europe,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_ON,United States,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_ON,Japan,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_ON,Russia,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_ON,China,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_ON,India,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_ON,Middle East,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_ON,Africa,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_ON,Brazil,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_ON,Europe,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_ON,United States,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_ON,Japan,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_ON,Russia,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_ON,China,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_ON,India,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_ON,Middle East,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_ON,Africa,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_ON,Brazil,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_ON,Europe,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_ON,United States,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_ON,Japan,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_ON,Russia,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_ON,China,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_ON,India,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_ON,Middle East,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_ON,Africa,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_ON,Brazil,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_ON,Europe,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_ON,United States,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_ON,Japan,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_ON,Russia,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_ON,China,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_ON,India,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_ON,Middle East,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_ON,Africa,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_ON,Brazil,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,Europe,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_SH,United States,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_SH,Japan,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_SH,Russia,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_SH,China,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_SH,India,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_SH,Middle East,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_SH,Africa,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_SH,Brazil,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_SH,Europe,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_SH,United States,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_SH,Japan,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_SH,Russia,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_SH,China,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_SH,India,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_SH,Middle East,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_SH,Africa,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_SH,Brazil,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_SH,Europe,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,United States,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,Japan,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,Russia,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,China,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,India,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,Middle East,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,Africa,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,Brazil,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,Europe,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,United States,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,Japan,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,Russia,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,China,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,India,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,Middle East,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,Africa,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_SH,Brazil,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,Europe,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_IN,United States,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_IN,Japan,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_IN,Russia,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_IN,China,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_IN,India,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_IN,Middle East,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_IN,Africa,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_IN,Brazil,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_IN,Europe,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_IN,United States,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_IN,Japan,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_IN,Russia,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_IN,China,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_IN,India,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_IN,Middle East,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_IN,Africa,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_IN,Brazil,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_IN,Europe,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,United States,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,Japan,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,Russia,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,China,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,India,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,Middle East,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,Africa,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,Brazil,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,Europe,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,United States,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,Japan,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,Russia,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,China,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,India,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,Middle East,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,Africa,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_IN,Brazil,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,Europe,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_DE,United States,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_DE,Japan,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_DE,Russia,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_DE,China,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_DE,India,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_DE,Middle East,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_DE,Africa,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_DE,Brazil,UnitCapacity,MW,5,5,5,5,5,5,5,5,5,5
+WND_OFF_DE,Europe,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_DE,United States,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_DE,Japan,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_DE,Russia,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_DE,China,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_DE,India,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_DE,Middle East,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_DE,Africa,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_DE,Brazil,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+WND_OFF_DE,Europe,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,United States,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,Japan,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,Russia,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,China,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,India,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,Middle East,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,Africa,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,Brazil,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,Europe,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,United States,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,Japan,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,Russia,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,China,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,India,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,Middle East,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,Africa,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+WND_OFF_DE,Brazil,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_FT,Europe,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_FT,United States,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_FT,Japan,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_FT,Russia,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_FT,China,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_FT,India,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_FT,Middle East,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_FT,Africa,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_FT,Brazil,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_FT,Europe,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_FT,United States,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_FT,Japan,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_FT,Russia,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_FT,China,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_FT,India,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_FT,Middle East,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_FT,Africa,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_FT,Brazil,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_FT,Europe,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_FT,United States,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_FT,Japan,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_FT,Russia,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_FT,China,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_FT,India,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_FT,Middle East,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_FT,Africa,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_FT,Brazil,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_FT,Europe,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_FT,United States,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_FT,Japan,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_FT,Russia,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_FT,China,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_FT,India,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_FT,Middle East,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_FT,Africa,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_TK,Europe,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_TK,United States,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_TK,Japan,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_TK,Russia,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_TK,China,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_TK,India,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_TK,Middle East,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_TK,Africa,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_TK,Brazil,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_TK,Europe,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_TK,United States,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_TK,Japan,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_TK,Russia,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_TK,China,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_TK,India,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_TK,Middle East,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_TK,Africa,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_TK,Brazil,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_TK,Europe,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_TK,United States,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_TK,Japan,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_TK,Russia,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_TK,China,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_TK,India,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_TK,Middle East,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_TK,Africa,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_TK,Brazil,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_TK,Europe,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_TK,United States,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_TK,Japan,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_TK,Russia,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_TK,China,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_TK,India,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_TK,Middle East,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_TK,Africa,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,Europe,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_Dist,United States,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_Dist,Japan,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_Dist,Russia,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_Dist,China,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_Dist,India,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_Dist,Middle East,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_Dist,Africa,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_Dist,Brazil,UnitCapacity,MW,1,1,1,1,1,1,1,1,1,1
+PV_Dist,Europe,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_Dist,United States,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_Dist,Japan,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_Dist,Russia,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_Dist,China,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_Dist,India,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_Dist,Middle East,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_Dist,Africa,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_Dist,Brazil,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+PV_Dist,Europe,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,United States,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,Japan,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,Russia,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,China,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,India,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,Middle East,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,Africa,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,Brazil,EquAvailFactor,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,Europe,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,United States,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,Japan,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,Russia,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,China,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,India,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,Middle East,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+PV_Dist,Africa,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+CSP_ST6,Europe,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST6,United States,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST6,Japan,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST6,Russia,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST6,China,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST6,India,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST6,Middle East,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST6,Africa,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST6,Brazil,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST6,Europe,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST6,United States,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST6,Japan,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST6,Russia,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST6,China,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST6,India,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST6,Middle East,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST6,Africa,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST6,Brazil,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST6,Europe,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST6,United States,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST6,Japan,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST6,Russia,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST6,China,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST6,India,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST6,Middle East,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST6,Africa,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST6,Brazil,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST6,Europe,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+CSP_ST6,United States,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+CSP_ST6,Japan,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+CSP_ST6,Russia,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+CSP_ST6,China,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+CSP_ST6,India,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+CSP_ST6,Middle East,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+CSP_ST6,Africa,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+CSP_ST9,Europe,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST9,United States,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST9,Japan,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST9,Russia,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST9,China,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST9,India,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST9,Middle East,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST9,Africa,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST9,Brazil,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+CSP_ST9,Europe,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST9,United States,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST9,Japan,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST9,Russia,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST9,China,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST9,India,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST9,Middle East,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST9,Africa,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST9,Brazil,Gross_Eff,,1,1,1,1,1,1,1,1,1,1
+CSP_ST9,Europe,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST9,United States,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST9,Japan,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST9,Russia,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST9,China,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST9,India,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST9,Middle East,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST9,Africa,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST9,Brazil,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+CSP_ST9,Europe,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+CSP_ST9,United States,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+CSP_ST9,Japan,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+CSP_ST9,Russia,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+CSP_ST9,China,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+CSP_ST9,India,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+CSP_ST9,Middle East,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+CSP_ST9,Africa,AuxiliaryCon,,0,0,0,0,0,0,0,0,0,0
+GEO_hydro,Europe,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GEO_hydro,United States,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GEO_hydro,Japan,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GEO_hydro,Russia,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GEO_hydro,China,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GEO_hydro,India,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GEO_hydro,Middle East,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GEO_hydro,Africa,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GEO_hydro,Brazil,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GEO_hydro,Europe,Gross_Eff,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+GEO_hydro,United States,Gross_Eff,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+GEO_hydro,Japan,Gross_Eff,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+GEO_hydro,Russia,Gross_Eff,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+GEO_hydro,China,Gross_Eff,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+GEO_hydro,India,Gross_Eff,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+GEO_hydro,Middle East,Gross_Eff,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+GEO_hydro,Africa,Gross_Eff,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+GEO_hydro,Brazil,Gross_Eff,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+GEO_hydro,Europe,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GEO_hydro,United States,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GEO_hydro,Japan,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GEO_hydro,Russia,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GEO_hydro,China,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GEO_hydro,India,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GEO_hydro,Middle East,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GEO_hydro,Africa,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GEO_hydro,Brazil,EquAvailFactor,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GEO_hydro,Europe,AuxiliaryCon,,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06
+GEO_hydro,United States,AuxiliaryCon,,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06
+GEO_hydro,Japan,AuxiliaryCon,,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06
+GEO_hydro,Russia,AuxiliaryCon,,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06
+GEO_hydro,China,AuxiliaryCon,,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06
+GEO_hydro,India,AuxiliaryCon,,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06
+GEO_hydro,Middle East,AuxiliaryCon,,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06
+GEO_hydro,Africa,AuxiliaryCon,,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06
+BIO_ST,Europe,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+BIO_ST,United States,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+BIO_ST,Japan,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+BIO_ST,Russia,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+BIO_ST,China,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+BIO_ST,India,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+BIO_ST,Middle East,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+BIO_ST,Africa,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+BIO_ST,Brazil,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+BIO_ST,Europe,Gross_Eff,,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32
+BIO_ST,United States,Gross_Eff,,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32
+BIO_ST,Japan,Gross_Eff,,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32
+BIO_ST,Russia,Gross_Eff,,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32
+BIO_ST,China,Gross_Eff,,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31
+BIO_ST,India,Gross_Eff,,0.29,0.29,0.29,0.29,0.29,0.29,0.29,0.29,0.29,0.29
+BIO_ST,Middle East,Gross_Eff,,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+BIO_ST,Africa,Gross_Eff,,0.29,0.29,0.29,0.29,0.29,0.29,0.29,0.29,0.29,0.29
+BIO_ST,Brazil,Gross_Eff,,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32
+BIO_ST,Europe,MinLoad,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+BIO_ST,United States,MinLoad,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+BIO_ST,Japan,MinLoad,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+BIO_ST,Russia,MinLoad,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+BIO_ST,China,MinLoad,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+BIO_ST,India,MinLoad,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+BIO_ST,Middle East,MinLoad,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+BIO_ST,Africa,MinLoad,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+BIO_ST,Brazil,MinLoad,,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+BIO_ST,Europe,RampRate,%P/Min,4,4,4,4,4,4,4,4,4,4
+BIO_ST,United States,RampRate,%P/Min,4,4,4,4,4,4,4,4,4,4
+BIO_ST,Japan,RampRate,%P/Min,4,4,4,4,4,4,4,4,4,4
+BIO_ST,Russia,RampRate,%P/Min,4,4,4,4,4,4,4,4,4,4
+BIO_ST,China,RampRate,%P/Min,4,4,4,4,4,4,4,4,4,4
+BIO_ST,India,RampRate,%P/Min,4,4,4,4,4,4,4,4,4,4
+BIO_ST,Middle East,RampRate,%P/Min,4,4,4,4,4,4,4,4,4,4
+BIO_ST,Africa,RampRate,%P/Min,4,4,4,4,4,4,4,4,4,4
+BIO_ST,Brazil,RampRate,%P/Min,4,4,4,4,4,4,4,4,4,4
+BIO_ST,Europe,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+BIO_ST,United States,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+BIO_ST,Japan,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+BIO_ST,Russia,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+BIO_ST,China,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+BIO_ST,India,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+BIO_ST,Middle East,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+BIO_ST,Africa,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+BIO_ST,Brazil,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+BIO_ST,Europe,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIO_ST,United States,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIO_ST,Japan,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIO_ST,Russia,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIO_ST,China,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIO_ST,India,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIO_ST,Middle East,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIO_ST,Africa,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIO_ST,Brazil,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIGCC_CCS,Europe,UnitCapacity,MW,300,300,300,300,300,300,300,300,300,300
+BIGCC_CCS,United States,UnitCapacity,MW,300,300,300,300,300,300,300,300,300,300
+BIGCC_CCS,Japan,UnitCapacity,MW,300,300,300,300,300,300,300,300,300,300
+BIGCC_CCS,Russia,UnitCapacity,MW,300,300,300,300,300,300,300,300,300,300
+BIGCC_CCS,China,UnitCapacity,MW,300,300,300,300,300,300,300,300,300,300
+BIGCC_CCS,India,UnitCapacity,MW,300,300,300,300,300,300,300,300,300,300
+BIGCC_CCS,Middle East,UnitCapacity,MW,300,300,300,300,300,300,300,300,300,300
+BIGCC_CCS,Africa,UnitCapacity,MW,300,300,300,300,300,300,300,300,300,300
+BIGCC_CCS,Brazil,UnitCapacity,MW,300,300,300,300,300,300,300,300,300,300
+BIGCC_CCS,Europe,Gross_Eff,,0.3,0.32,0.346666667,0.37,0.39,0.41,0.43,0.45,0.45,0.45
+BIGCC_CCS,United States,Gross_Eff,,0.3,0.32,0.346666667,0.37,0.39,0.41,0.43,0.45,0.45,0.45
+BIGCC_CCS,Japan,Gross_Eff,,0.3,0.32,0.346666667,0.37,0.39,0.41,0.43,0.45,0.45,0.45
+BIGCC_CCS,Russia,Gross_Eff,,0.3,0.32,0.346666667,0.37,0.39,0.41,0.43,0.45,0.45,0.45
+BIGCC_CCS,China,Gross_Eff,,0.29,0.31,0.336666667,0.36,0.38,0.4,0.42,0.44,0.44,0.44
+BIGCC_CCS,India,Gross_Eff,,0.28,0.3,0.326666667,0.35,0.37,0.39,0.41,0.43,0.43,0.43
+BIGCC_CCS,Middle East,Gross_Eff,,0.28,0.3,0.326666667,0.35,0.37,0.39,0.41,0.43,0.43,0.43
+BIGCC_CCS,Africa,Gross_Eff,,0.27,0.29,0.316666667,0.34,0.36,0.38,0.4,0.42,0.42,0.42
+BIGCC_CCS,Brazil,Gross_Eff,,0.3,0.32,0.346666667,0.37,0.39,0.41,0.43,0.45,0.45,0.45
+BIGCC_CCS,Europe,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+BIGCC_CCS,United States,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+BIGCC_CCS,Japan,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+BIGCC_CCS,Russia,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+BIGCC_CCS,China,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+BIGCC_CCS,India,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+BIGCC_CCS,Middle East,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+BIGCC_CCS,Africa,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+BIGCC_CCS,Brazil,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+BIGCC_CCS,Europe,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+BIGCC_CCS,United States,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+BIGCC_CCS,Japan,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+BIGCC_CCS,Russia,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+BIGCC_CCS,China,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+BIGCC_CCS,India,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+BIGCC_CCS,Middle East,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+BIGCC_CCS,Africa,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+BIGCC_CCS,Brazil,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+BIGCC_CCS,Europe,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,United States,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,Japan,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,Russia,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,China,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,India,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,Middle East,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,Africa,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,Brazil,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,Europe,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,United States,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,Japan,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,Russia,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,China,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,India,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,Middle East,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,Africa,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,Brazil,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+BIGCC_CCS,Europe,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIGCC_CCS,United States,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIGCC_CCS,Japan,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIGCC_CCS,Russia,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIGCC_CCS,China,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIGCC_CCS,India,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIGCC_CCS,Middle East,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIGCC_CCS,Africa,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+BIGCC_CCS,Brazil,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07

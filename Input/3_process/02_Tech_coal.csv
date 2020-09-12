@@ -1,0 +1,406 @@
+ProcessName,RegionGroup,Parameters,Unit,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060
+COA_SUB,Europe,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SUB,United States,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SUB,Japan,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SUB,Russia,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SUB,China,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SUB,India,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SUB,Middle East,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SUB,Africa,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SUB,Brazil,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SUB,Europe,Gross_Eff,,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39
+COA_SUB,United States,Gross_Eff,,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39
+COA_SUB,Japan,Gross_Eff,,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39
+COA_SUB,Russia,Gross_Eff,,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39
+COA_SUB,China,Gross_Eff,,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37
+COA_SUB,India,Gross_Eff,,0.36,0.36,0.36,0.36,0.365,0.37,0.375,0.38,0.38,0.38
+COA_SUB,Middle East,Gross_Eff,,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37
+COA_SUB,Africa,Gross_Eff,,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+COA_SUB,Brazil,Gross_Eff,,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39
+COA_SUB,Europe,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SUB,United States,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SUB,Japan,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SUB,Russia,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SUB,China,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SUB,India,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SUB,Middle East,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SUB,Africa,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SUB,Brazil,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SUB,Europe,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SUB,United States,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SUB,Japan,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SUB,Russia,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SUB,China,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SUB,India,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SUB,Middle East,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SUB,Africa,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SUB,Brazil,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SUB,Europe,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SUB,United States,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SUB,Japan,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SUB,Russia,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SUB,China,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SUB,India,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SUB,Middle East,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SUB,Africa,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SUB,Brazil,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SUB,Europe,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SUB,United States,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SUB,Japan,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SUB,Russia,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SUB,China,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SUB,India,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SUB,Middle East,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SUB,Africa,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SUB,Brazil,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC,Europe,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC,United States,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC,Japan,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC,Russia,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC,China,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC,India,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC,Middle East,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC,Africa,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC,Brazil,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC,Europe,Gross_Eff,,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43
+COA_SC,United States,Gross_Eff,,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43
+COA_SC,Japan,Gross_Eff,,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43
+COA_SC,Russia,Gross_Eff,,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43
+COA_SC,China,Gross_Eff,,0.41,0.41,0.41,0.41,0.41,0.41,0.41,0.41,0.41,0.41
+COA_SC,India,Gross_Eff,,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+COA_SC,Middle East,Gross_Eff,,0.41,0.41,0.41,0.41,0.41,0.41,0.41,0.41,0.41,0.41
+COA_SC,Africa,Gross_Eff,,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39,0.39
+COA_SC,Brazil,Gross_Eff,,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43
+COA_SC,Europe,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC,United States,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC,Japan,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC,Russia,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC,China,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC,India,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC,Middle East,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC,Africa,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC,Brazil,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC,Europe,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC,United States,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC,Japan,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC,Russia,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC,China,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC,India,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC,Middle East,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC,Africa,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC,Brazil,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC,Europe,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SC,United States,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SC,Japan,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SC,Russia,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SC,China,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SC,India,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SC,Middle East,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SC,Africa,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SC,Brazil,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_SC,Europe,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC,United States,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC,Japan,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC,Russia,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC,China,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC,India,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC,Middle East,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC,Africa,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC,Brazil,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_USC,Europe,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_USC,United States,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_USC,Japan,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_USC,Russia,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_USC,China,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_USC,India,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_USC,Middle East,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_USC,Africa,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_USC,Brazil,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_USC,Europe,Gross_Eff,,0.45,0.46,0.465,0.47,0.47,0.47,0.47,0.47,0.47,0.47
+COA_USC,United States,Gross_Eff,,0.45,0.46,0.465,0.47,0.47,0.47,0.47,0.47,0.47,0.47
+COA_USC,Japan,Gross_Eff,,0.45,0.46,0.465,0.47,0.47,0.47,0.47,0.47,0.47,0.47
+COA_USC,Russia,Gross_Eff,,0.45,0.46,0.465,0.47,0.47,0.47,0.47,0.47,0.47,0.47
+COA_USC,China,Gross_Eff,,0.44,0.45,0.455,0.46,0.465,0.47,0.475,0.48,0.48,0.48
+COA_USC,India,Gross_Eff,,0.4,0.41,0.415,0.42,0.425,0.43,0.435,0.44,0.44,0.44
+COA_USC,Middle East,Gross_Eff,,0.43,0.44,0.445,0.45,0.45,0.45,0.45,0.45,0.45,0.45
+COA_USC,Africa,Gross_Eff,,0.41,0.42,0.425,0.43,0.435,0.44,0.445,0.45,0.45,0.45
+COA_USC,Brazil,Gross_Eff,,0.45,0.46,0.465,0.47,0.47,0.47,0.47,0.47,0.47,0.47
+COA_USC,Europe,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_USC,United States,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_USC,Japan,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_USC,Russia,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_USC,China,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_USC,India,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_USC,Middle East,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_USC,Africa,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_USC,Brazil,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_USC,Europe,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_USC,United States,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_USC,Japan,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_USC,Russia,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_USC,China,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_USC,India,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_USC,Middle East,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_USC,Africa,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_USC,Brazil,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_USC,Europe,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_USC,United States,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_USC,Japan,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_USC,Russia,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_USC,China,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_USC,India,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_USC,Middle East,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_USC,Africa,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_USC,Brazil,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_USC,Europe,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_USC,United States,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_USC,Japan,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_USC,Russia,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_USC,China,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_USC,India,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_USC,Middle East,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_USC,Africa,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_USC,Brazil,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC,Europe,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC,United States,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC,Japan,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC,Russia,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC,China,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC,India,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC,Middle East,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC,Africa,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC,Brazil,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC,Europe,Gross_Eff,,0.44,0.45,0.46,0.47,0.48,0.49,0.5,0.51,0.51,0.51
+COA_IGCC,United States,Gross_Eff,,0.44,0.45,0.46,0.47,0.48,0.49,0.5,0.51,0.51,0.51
+COA_IGCC,Japan,Gross_Eff,,0.44,0.45,0.46,0.47,0.48,0.49,0.5,0.51,0.51,0.51
+COA_IGCC,Russia,Gross_Eff,,0.44,0.45,0.46,0.47,0.48,0.49,0.5,0.51,0.51,0.51
+COA_IGCC,China,Gross_Eff,,0.43,0.44,0.45,0.46,0.475,0.49,0.505,0.52,0.52,0.52
+COA_IGCC,India,Gross_Eff,,0.41,0.42,0.43,0.44,0.455,0.47,0.485,0.5,0.5,0.5
+COA_IGCC,Middle East,Gross_Eff,,0.42,0.43,0.44,0.45,0.46,0.47,0.48,0.49,0.49,0.49
+COA_IGCC,Africa,Gross_Eff,,0.4,0.41,0.42,0.43,0.44,0.45,0.46,0.47,0.47,0.47
+COA_IGCC,Brazil,Gross_Eff,,0.44,0.45,0.46,0.47,0.48,0.49,0.5,0.51,0.51,0.51
+COA_IGCC,Europe,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC,United States,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC,Japan,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC,Russia,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC,China,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC,India,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC,Middle East,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC,Africa,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC,Brazil,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC,Europe,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC,United States,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC,Japan,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC,Russia,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC,China,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC,India,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC,Middle East,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC,Africa,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC,Brazil,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC,Europe,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC,United States,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC,Japan,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC,Russia,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC,China,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC,India,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC,Middle East,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC,Africa,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC,Brazil,EquAvailFactor,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC,Europe,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC,United States,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC,Japan,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC,Russia,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC,China,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC,India,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC,Middle East,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC,Africa,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC,Brazil,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC_CCS,Europe,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC_CCS,United States,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC_CCS,Japan,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC_CCS,Russia,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC_CCS,China,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC_CCS,India,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC_CCS,Middle East,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC_CCS,Africa,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC_CCS,Brazil,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_SC_CCS,Europe,Gross_Eff,,0.36,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37
+COA_SC_CCS,United States,Gross_Eff,,0.36,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37
+COA_SC_CCS,Japan,Gross_Eff,,0.36,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37
+COA_SC_CCS,Russia,Gross_Eff,,0.36,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37
+COA_SC_CCS,China,Gross_Eff,,0.35,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36
+COA_SC_CCS,India,Gross_Eff,,0.31,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32
+COA_SC_CCS,Middle East,Gross_Eff,,0.36,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37
+COA_SC_CCS,Africa,Gross_Eff,,0.32,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33
+COA_SC_CCS,Brazil,Gross_Eff,,0.36,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37
+COA_SC_CCS,Europe,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC_CCS,United States,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC_CCS,Japan,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC_CCS,Russia,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC_CCS,China,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC_CCS,India,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC_CCS,Middle East,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC_CCS,Africa,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC_CCS,Brazil,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_SC_CCS,Europe,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC_CCS,United States,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC_CCS,Japan,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC_CCS,Russia,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC_CCS,China,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC_CCS,India,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC_CCS,Middle East,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC_CCS,Africa,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC_CCS,Brazil,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_SC_CCS,Europe,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_SC_CCS,United States,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_SC_CCS,Japan,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_SC_CCS,Russia,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_SC_CCS,China,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_SC_CCS,India,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_SC_CCS,Middle East,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_SC_CCS,Africa,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_SC_CCS,Brazil,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_SC_CCS,Europe,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_SC_CCS,United States,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_SC_CCS,Japan,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_SC_CCS,Russia,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_SC_CCS,China,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_SC_CCS,India,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_SC_CCS,Middle East,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_SC_CCS,Africa,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_SC_CCS,Brazil,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_SC_CCS,Europe,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC_CCS,United States,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC_CCS,Japan,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC_CCS,Russia,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC_CCS,China,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC_CCS,India,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC_CCS,Middle East,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC_CCS,Africa,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_SC_CCS,Brazil,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_OXY_CCS,Europe,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_OXY_CCS,United States,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_OXY_CCS,Japan,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_OXY_CCS,Russia,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_OXY_CCS,China,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_OXY_CCS,India,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_OXY_CCS,Middle East,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_OXY_CCS,Africa,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_OXY_CCS,Brazil,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_OXY_CCS,Europe,Gross_Eff,,0.36,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37
+COA_OXY_CCS,United States,Gross_Eff,,0.36,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37
+COA_OXY_CCS,Japan,Gross_Eff,,0.36,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37
+COA_OXY_CCS,Russia,Gross_Eff,,0.36,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37
+COA_OXY_CCS,China,Gross_Eff,,0.35,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36
+COA_OXY_CCS,India,Gross_Eff,,0.31,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32
+COA_OXY_CCS,Middle East,Gross_Eff,,0.36,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37
+COA_OXY_CCS,Africa,Gross_Eff,,0.32,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33,0.33
+COA_OXY_CCS,Brazil,Gross_Eff,,0.36,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37
+COA_OXY_CCS,Europe,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_OXY_CCS,United States,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_OXY_CCS,Japan,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_OXY_CCS,Russia,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_OXY_CCS,China,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_OXY_CCS,India,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_OXY_CCS,Middle East,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_OXY_CCS,Africa,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_OXY_CCS,Brazil,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_OXY_CCS,Europe,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_OXY_CCS,United States,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_OXY_CCS,Japan,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_OXY_CCS,Russia,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_OXY_CCS,China,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_OXY_CCS,India,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_OXY_CCS,Middle East,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_OXY_CCS,Africa,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_OXY_CCS,Brazil,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_OXY_CCS,Europe,CaptureRate,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_OXY_CCS,United States,CaptureRate,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_OXY_CCS,Japan,CaptureRate,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_OXY_CCS,Russia,CaptureRate,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_OXY_CCS,China,CaptureRate,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_OXY_CCS,India,CaptureRate,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_OXY_CCS,Middle East,CaptureRate,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_OXY_CCS,Africa,CaptureRate,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_OXY_CCS,Brazil,CaptureRate,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+COA_OXY_CCS,Europe,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_OXY_CCS,United States,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_OXY_CCS,Japan,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_OXY_CCS,Russia,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_OXY_CCS,China,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_OXY_CCS,India,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_OXY_CCS,Middle East,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_OXY_CCS,Africa,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_OXY_CCS,Brazil,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_OXY_CCS,Europe,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_OXY_CCS,United States,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_OXY_CCS,Japan,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_OXY_CCS,Russia,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_OXY_CCS,China,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_OXY_CCS,India,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_OXY_CCS,Middle East,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_OXY_CCS,Africa,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_OXY_CCS,Brazil,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC_CCS,Europe,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC_CCS,United States,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC_CCS,Japan,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC_CCS,Russia,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC_CCS,China,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC_CCS,India,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC_CCS,Middle East,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC_CCS,Africa,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC_CCS,Brazil,UnitCapacity,MW,600,600,600,600,600,600,600,600,600,600
+COA_IGCC_CCS,Europe,Gross_Eff,,0.36,0.37,0.365,0.36,0.375,0.39,0.405,0.42,0.42,0.42
+COA_IGCC_CCS,United States,Gross_Eff,,0.36,0.37,0.365,0.36,0.375,0.39,0.405,0.42,0.42,0.42
+COA_IGCC_CCS,Japan,Gross_Eff,,0.36,0.37,0.365,0.36,0.375,0.39,0.405,0.42,0.42,0.42
+COA_IGCC_CCS,Russia,Gross_Eff,,0.36,0.37,0.365,0.36,0.375,0.39,0.405,0.42,0.42,0.42
+COA_IGCC_CCS,China,Gross_Eff,,0.35,0.36,0.355,0.35,0.365,0.38,0.395,0.41,0.41,0.41
+COA_IGCC_CCS,India,Gross_Eff,,0.33,0.34,0.335,0.33,0.345,0.36,0.375,0.39,0.39,0.39
+COA_IGCC_CCS,Middle East,Gross_Eff,,0.36,0.37,0.365,0.36,0.375,0.39,0.405,0.42,0.42,0.42
+COA_IGCC_CCS,Africa,Gross_Eff,,0.32,0.33,0.325,0.32,0.335,0.35,0.365,0.38,0.38,0.38
+COA_IGCC_CCS,Brazil,Gross_Eff,,0.36,0.37,0.365,0.36,0.375,0.39,0.405,0.42,0.42,0.42
+COA_IGCC_CCS,Europe,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC_CCS,United States,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC_CCS,Japan,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC_CCS,Russia,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC_CCS,China,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC_CCS,India,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC_CCS,Middle East,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC_CCS,Africa,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC_CCS,Brazil,MinLoad,,0.4,0.35,0.325,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+COA_IGCC_CCS,Europe,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC_CCS,United States,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC_CCS,Japan,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC_CCS,Russia,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC_CCS,China,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC_CCS,India,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC_CCS,Middle East,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC_CCS,Africa,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC_CCS,Brazil,RampRate,%P/Min,2,2.5,2.75,3,3,3,3,3,3,3
+COA_IGCC_CCS,Europe,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC_CCS,United States,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC_CCS,Japan,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC_CCS,Russia,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC_CCS,China,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC_CCS,India,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC_CCS,Middle East,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC_CCS,Africa,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC_CCS,Brazil,CaptureRate,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+COA_IGCC_CCS,Europe,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_IGCC_CCS,United States,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_IGCC_CCS,Japan,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_IGCC_CCS,Russia,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_IGCC_CCS,China,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_IGCC_CCS,India,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_IGCC_CCS,Middle East,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_IGCC_CCS,Africa,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_IGCC_CCS,Brazil,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+COA_IGCC_CCS,Europe,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC_CCS,United States,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC_CCS,Japan,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC_CCS,Russia,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC_CCS,China,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC_CCS,India,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC_CCS,Middle East,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC_CCS,Africa,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+COA_IGCC_CCS,Brazil,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07

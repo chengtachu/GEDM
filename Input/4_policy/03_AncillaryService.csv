@@ -1,0 +1,7 @@
+CostGroup,Type,ResponseTime(min),Unit in % of day peak demand,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060
+Europe,Primary,0.5,%,1,2,3,3,3,3,3,3,3,3
+China,Primary,0.5,%,1,2,3,3,3,3,3,3,3,3
+Europe,Secondary,10,%,3,3,3,3,3,3,3,3,3,3
+China,Secondary,10,%,2,2,3,3,3,3,3,3,3,3
+Europe,Tertiary,30,%,3,3,3,3,3,3,3,3,3,3
+China,Tertiary,30,%,2,2,3,3,3,3,3,3,3,3

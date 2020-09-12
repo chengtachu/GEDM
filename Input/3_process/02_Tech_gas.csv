@@ -1,0 +1,172 @@
+ProcessName,RegionGroup,Parameters,Unit,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060
+GAS_OCGT,Europe,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GAS_OCGT,United States,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GAS_OCGT,Japan,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GAS_OCGT,Russia,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GAS_OCGT,China,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GAS_OCGT,India,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GAS_OCGT,Middle East,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GAS_OCGT,Africa,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GAS_OCGT,Brazil,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
+GAS_OCGT,Europe,Gross_Eff,,0.4,0.4,0.41,0.41,0.42,0.42,0.43,0.43,0.43,0.43
+GAS_OCGT,United States,Gross_Eff,,0.4,0.4,0.41,0.41,0.42,0.42,0.43,0.43,0.43,0.43
+GAS_OCGT,Japan,Gross_Eff,,0.4,0.4,0.41,0.41,0.42,0.42,0.43,0.43,0.43,0.43
+GAS_OCGT,Russia,Gross_Eff,,0.38,0.38,0.39,0.39,0.4,0.41,0.42,0.43,0.43,0.43
+GAS_OCGT,China,Gross_Eff,,0.38,0.38,0.39,0.39,0.4,0.41,0.42,0.43,0.43,0.43
+GAS_OCGT,India,Gross_Eff,,0.38,0.38,0.39,0.39,0.4,0.41,0.42,0.43,0.43,0.43
+GAS_OCGT,Middle East,Gross_Eff,,0.38,0.38,0.39,0.39,0.4,0.41,0.42,0.43,0.43,0.43
+GAS_OCGT,Africa,Gross_Eff,,0.38,0.38,0.39,0.39,0.4,0.41,0.42,0.43,0.43,0.43
+GAS_OCGT,Brazil,Gross_Eff,,0.38,0.38,0.39,0.39,0.4,0.41,0.42,0.43,0.43,0.43
+GAS_OCGT,Europe,MinLoad,,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+GAS_OCGT,United States,MinLoad,,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+GAS_OCGT,Japan,MinLoad,,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+GAS_OCGT,Russia,MinLoad,,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+GAS_OCGT,China,MinLoad,,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+GAS_OCGT,India,MinLoad,,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+GAS_OCGT,Middle East,MinLoad,,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+GAS_OCGT,Africa,MinLoad,,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+GAS_OCGT,Brazil,MinLoad,,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+GAS_OCGT,Europe,RampRate,%P/Min,10,10,11,12,12,12,12,12,12,12
+GAS_OCGT,United States,RampRate,%P/Min,10,10,11,12,12,12,12,12,12,12
+GAS_OCGT,Japan,RampRate,%P/Min,10,10,11,12,12,12,12,12,12,12
+GAS_OCGT,Russia,RampRate,%P/Min,10,10,11,12,12,12,12,12,12,12
+GAS_OCGT,China,RampRate,%P/Min,10,10,11,12,12,12,12,12,12,12
+GAS_OCGT,India,RampRate,%P/Min,10,10,11,12,12,12,12,12,12,12
+GAS_OCGT,Middle East,RampRate,%P/Min,10,10,11,12,12,12,12,12,12,12
+GAS_OCGT,Africa,RampRate,%P/Min,10,10,11,12,12,12,12,12,12,12
+GAS_OCGT,Brazil,RampRate,%P/Min,10,10,11,12,12,12,12,12,12,12
+GAS_OCGT,Europe,EquAvailFactor,,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92
+GAS_OCGT,United States,EquAvailFactor,,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92
+GAS_OCGT,Japan,EquAvailFactor,,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92
+GAS_OCGT,Russia,EquAvailFactor,,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92
+GAS_OCGT,China,EquAvailFactor,,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92
+GAS_OCGT,India,EquAvailFactor,,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92
+GAS_OCGT,Middle East,EquAvailFactor,,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92
+GAS_OCGT,Africa,EquAvailFactor,,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92
+GAS_OCGT,Brazil,EquAvailFactor,,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92,0.92
+GAS_OCGT,Europe,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_OCGT,United States,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_OCGT,Japan,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_OCGT,Russia,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_OCGT,China,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_OCGT,India,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_OCGT,Middle East,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_OCGT,Africa,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_OCGT,Brazil,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CCGT,Europe,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CCGT,United States,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CCGT,Japan,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CCGT,Russia,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CCGT,China,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CCGT,India,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CCGT,Middle East,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CCGT,Africa,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CCGT,Brazil,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CCGT,Europe,Gross_Eff,,0.59,0.59,0.6,0.6,0.61,0.61,0.62,0.62,0.62,0.62
+GAS_CCGT,United States,Gross_Eff,,0.59,0.59,0.6,0.6,0.61,0.61,0.62,0.62,0.62,0.62
+GAS_CCGT,Japan,Gross_Eff,,0.59,0.59,0.6,0.6,0.61,0.61,0.62,0.62,0.62,0.62
+GAS_CCGT,Russia,Gross_Eff,,0.57,0.57,0.58,0.58,0.58,0.58,0.58,0.58,0.58,0.58
+GAS_CCGT,China,Gross_Eff,,0.57,0.57,0.58,0.58,0.59,0.59,0.6,0.6,0.6,0.6
+GAS_CCGT,India,Gross_Eff,,0.56,0.56,0.57,0.57,0.58,0.58,0.59,0.59,0.59,0.59
+GAS_CCGT,Middle East,Gross_Eff,,0.57,0.57,0.58,0.58,0.58,0.58,0.58,0.58,0.58,0.58
+GAS_CCGT,Africa,Gross_Eff,,0.58,0.58,0.59,0.59,0.59,0.59,0.59,0.59,0.59,0.59
+GAS_CCGT,Brazil,Gross_Eff,,0.58,0.58,0.59,0.59,0.59,0.59,0.59,0.59,0.59,0.59
+GAS_CCGT,Europe,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CCGT,United States,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CCGT,Japan,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CCGT,Russia,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CCGT,China,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CCGT,India,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CCGT,Middle East,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CCGT,Africa,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CCGT,Brazil,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CCGT,Europe,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CCGT,United States,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CCGT,Japan,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CCGT,Russia,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CCGT,China,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CCGT,India,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CCGT,Middle East,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CCGT,Africa,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CCGT,Brazil,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CCGT,Europe,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+GAS_CCGT,United States,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+GAS_CCGT,Japan,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+GAS_CCGT,Russia,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+GAS_CCGT,China,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+GAS_CCGT,India,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+GAS_CCGT,Middle East,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+GAS_CCGT,Africa,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+GAS_CCGT,Brazil,EquAvailFactor,,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+GAS_CCGT,Europe,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CCGT,United States,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CCGT,Japan,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CCGT,Russia,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CCGT,China,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CCGT,India,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CCGT,Middle East,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CCGT,Africa,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CCGT,Brazil,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CC_CCS,Europe,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CC_CCS,United States,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CC_CCS,Japan,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CC_CCS,Russia,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CC_CCS,China,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CC_CCS,India,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CC_CCS,Middle East,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CC_CCS,Africa,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CC_CCS,Brazil,UnitCapacity,MW,500,500,500,500,500,500,500,500,500,500
+GAS_CC_CCS,Europe,Gross_Eff,,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52
+GAS_CC_CCS,United States,Gross_Eff,,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52
+GAS_CC_CCS,Japan,Gross_Eff,,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52
+GAS_CC_CCS,Russia,Gross_Eff,,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+GAS_CC_CCS,China,Gross_Eff,,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+GAS_CC_CCS,India,Gross_Eff,,0.49,0.49,0.49,0.49,0.49,0.49,0.49,0.49,0.49,0.49
+GAS_CC_CCS,Middle East,Gross_Eff,,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+GAS_CC_CCS,Africa,Gross_Eff,,0.51,0.51,0.51,0.51,0.51,0.51,0.51,0.51,0.51,0.51
+GAS_CC_CCS,Brazil,Gross_Eff,,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+GAS_CC_CCS,Europe,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CC_CCS,United States,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CC_CCS,Japan,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CC_CCS,Russia,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CC_CCS,China,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CC_CCS,India,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CC_CCS,Middle East,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CC_CCS,Africa,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CC_CCS,Brazil,MinLoad,,0.45,0.4,0.38,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+GAS_CC_CCS,Europe,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CC_CCS,United States,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CC_CCS,Japan,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CC_CCS,Russia,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CC_CCS,China,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CC_CCS,India,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CC_CCS,Middle East,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CC_CCS,Africa,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CC_CCS,Brazil,RampRate,%P/Min,5,5,5.5,6,6,6,6,6,6,6
+GAS_CC_CCS,Europe,CaptureRate,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GAS_CC_CCS,United States,CaptureRate,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GAS_CC_CCS,Japan,CaptureRate,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GAS_CC_CCS,Russia,CaptureRate,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GAS_CC_CCS,China,CaptureRate,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GAS_CC_CCS,India,CaptureRate,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GAS_CC_CCS,Middle East,CaptureRate,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GAS_CC_CCS,Africa,CaptureRate,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GAS_CC_CCS,Brazil,CaptureRate,,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+GAS_CC_CCS,Europe,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+GAS_CC_CCS,United States,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+GAS_CC_CCS,Japan,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+GAS_CC_CCS,Russia,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+GAS_CC_CCS,China,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+GAS_CC_CCS,India,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+GAS_CC_CCS,Middle East,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+GAS_CC_CCS,Africa,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+GAS_CC_CCS,Brazil,EquAvailFactor,,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88,0.88
+GAS_CC_CCS,Europe,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CC_CCS,United States,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CC_CCS,Japan,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CC_CCS,Russia,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CC_CCS,China,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CC_CCS,India,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CC_CCS,Middle East,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CC_CCS,Africa,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+GAS_CC_CCS,Brazil,AuxiliaryCon,,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07

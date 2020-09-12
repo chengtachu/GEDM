@@ -1,0 +1,9 @@
+Country,Renewable_Type,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060
+TWN,WND_ON,,,,,,,,,,
+TWN,WND_OFF,,,,,,,,,,
+TWN,PV,,,,,,,,,,
+TWN,CSP,,,,,,,,,,
+TWN,HYD,,,,,,,,,,
+TWN,HYD_PS,,,,,,,,,,
+TWN,GEO_hydro,,,,,,,,,,
+TWN,BIO_ST,,,,,,,,,,

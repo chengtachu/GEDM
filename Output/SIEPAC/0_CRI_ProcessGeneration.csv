@@ -1,0 +1,51 @@
+Zone code,Zone ID,Technology,Item,2015,2020,2025,2030,2035,2040,2045,2050
+CRI.All,CRIZ0,COA_SUB,Gross Output (GWh),24,0,0,0,0,0,0,0
+CRI.All,CRIZ0,COA_SUB,Net Output (GWh),22,0,0,0,0,0,0,0
+CRI.All,CRIZ0,COA_SC,Gross Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,COA_SC,Net Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,COA_USC,Gross Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,COA_USC,Net Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,COA_IGCC,Gross Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,COA_IGCC,Net Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,COA_SC_CCS,Gross Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,COA_SC_CCS,Net Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,COA_OXY_CCS,Gross Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,COA_OXY_CCS,Net Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,COA_IGCC_CCS,Gross Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,COA_IGCC_CCS,Net Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,GAS_OCGT,Gross Output (GWh),121,168,2298,0,0,0,0,0
+CRI.All,CRIZ0,GAS_OCGT,Net Output (GWh),112,156,2138,0,0,0,0,0
+CRI.All,CRIZ0,GAS_CCGT,Gross Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,GAS_CCGT,Net Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,GAS_CC_CCS,Gross Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,GAS_CC_CCS,Net Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,OIL_ST,Gross Output (GWh),1111,2249,391,0,0,0,0,0
+CRI.All,CRIZ0,OIL_ST,Net Output (GWh),1033,2091,363,0,0,0,0,0
+CRI.All,CRIZ0,NUK_LWR,Gross Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,NUK_LWR,Net Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,HYD_LG,Hydropower Output (GWh),6795,6795,6795,0,0,0,0,0
+CRI.All,CRIZ0,HYD_SM,Hydropower Output (GWh),30,30,30,0,0,0,0,0
+CRI.All,CRIZ0,HYD_PS,Storage Input (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,HYD_PS,Storage Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,BIO_ST,Gross Output (GWh),116,0,651,0,0,0,0,0
+CRI.All,CRIZ0,BIO_ST,Net Output (GWh),108,0,606,0,0,0,0,0
+CRI.All,CRIZ0,BIGCC_CCS,Gross Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,BIGCC_CCS,Net Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,BESS_ST1,Storage Input (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,BESS_ST1,Storage Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,BESS_ST4,Storage Input (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,BESS_ST4,Storage Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,BESS_ST8,Storage Input (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,BESS_ST8,Storage Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,All non-hydro renewables,Output (GWh),2890,2890,2608,0,0,0,0,0
+CRI.All,CRIZ0,Wind,Output (GWh),1329,1329,1047,0,0,0,0,0
+CRI.All,CRIZ0,PV,Output (GWh),38,38,38,0,0,0,0,0
+CRI.All,CRIZ0,CSP,Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,Other Renewalbes,Output (GWh),1523,1523,1523,0,0,0,0,0
+CRI.OffRgn1,CRIZF0,All Renewables,Output (GWh),0,0,0,0,0,0,0,0
+CRI.OffRgn2,CRIZF1,All Renewables,Output (GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,Transmission to ET814,(GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,Transmission to NICZ2,(GWh),0,0,0,0,0,0,0,0
+CRI.All,CRIZ0,Transmission to NICZ3,(GWh),1653,1069,881,0,0,0,0,0
+CRI.OffRgn1,CRIZF0,Transmission to CRIZ0,(GWh),0,0,0,0,0,0,0,0
+CRI.OffRgn2,CRIZF1,Transmission to CRIZ0,(GWh),0,0,0,0,0,0,0,0

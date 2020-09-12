@@ -1,0 +1,13 @@
+CommodityName,Category,HeatRate,EmissionFactor_CO2,Unit
+crop_res,biomass,1,0.112,PJ
+wood_res,biomass,1,0.112,PJ
+MSW,biomass,1,0.112,PJ
+biomass,biomass,1,0.112,PJ
+coal,coal,1,0.0946,PJ
+gas,gas,1,0.0561,PJ
+fuel_oil,oil,1,0.0733,PJ
+uranium,uranium,1,0.0001,PJ
+hydro,renewable,1,0.0001,PJ
+solar,renewable,1,0.0001,PJ
+wind,renewable,1,0.0001,PJ
+geothermal,renewable,1,0.0001,PJ
