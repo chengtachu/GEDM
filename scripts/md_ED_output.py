@@ -710,13 +710,13 @@ def ED_output_zoneInfo(instance, objMarket, ind_year, filePath):
     for ind_zone, objZone in enumerate(objMarket.lsZone):
         
         # CO2 emission
-        out_row = [objZone.sZone, objZone.sZoneID, "Emission (Tonnes)", "Total"]  
+        out_row = [objZone.sZone, objZone.sZoneID, "CO2 Emission (Tonnes)", "Total"]  
         for ind_TS, objTS in enumerate(instance.lsTimeSlice):
             out_row.append( format( objMarket.vCO2Emission_ZNL_TS[ind_zone, ind_TS], ".0f") )
         output.append(out_row)
         
         # CCS caoture
-        out_row = [objZone.sZone, objZone.sZoneID, "Emission (Tonnes)", "CCS sequestration"]
+        out_row = [objZone.sZone, objZone.sZoneID, "CO2 Emission (Tonnes)", "CCS sequestration"]
         for ind_TS, objTS in enumerate(instance.lsTimeSlice):
             out_row.append( format( objMarket.vCCSCapture_ZNL_TS[ind_zone, ind_TS], ".0f") )
         output.append(out_row)

@@ -164,11 +164,11 @@ The data processing module extracts solutions returned from the solver, summariz
 | 0_(Country Code)_ZoneBalance.csv | annual energy supply, demand, spill and transmission in every zones |
 | 0_(Country Code)_ZoneCapacity.csv | annual capacity by technologies and transmission links in every zones |
 | 0_(Country Code)_ZoneInfo.csv | annual summary information on fuel, emissions and costs in every zones |
-| (Year)_ED_ProcessOutput.csv | (ED model) generation from every processes and transmission links in defined time-slices |
-| (Year)_ED_ZoneBalance.csv | (ED model) energy supply, demand, spill and transmission in every zones in defined time-slices |
-| (Year)_ED_ZoneInfo.csv | (ED model) summary information on fuel consumption, emissions and costs in every zones in defined time-slices |
-| (Year)_CE_ProcessOutput.csv | (CE model) generation from every processes and transmission links in defined time-slices |
-| (Year)_CE_ZoneBalance.csv | (CE model) energy supply, demand, spill and transmission in every zones in defined time-slices |
+| (Year)_ED_ProcessOutput.csv | (ED model) generation from every processes and transmission links in specific year |
+| (Year)_ED_ZoneBalance.csv | (ED model) energy supply, demand, spill and transmission in every zones in specific year |
+| (Year)_ED_ZoneInfo.csv | (ED model) summary information on fuel consumption, emissions and costs in every zones in specific year |
+| (Year)_CE_ProcessOutput.csv | (CE model) generation from every processes and transmission links in specific year |
+| (Year)_CE_ZoneBalance.csv | (CE model) energy supply, demand, spill and transmission in every zones in specific year |
   
 ---
 ### License

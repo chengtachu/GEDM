@@ -634,7 +634,7 @@ def outputAllMarketResults(instance, objMarket, directory):
             if objZone.sZone[0:3] ==  sCountry:
             
                 # CO2 emission
-                out_row = [objZone.sZone, objZone.sZoneID, "Emission (K.Tonnes)", "Total"]  
+                out_row = [objZone.sZone, objZone.sZoneID, "CO2 Emission (K.Tonnes)", "Total"]  
                 for ind_YS, iYS in enumerate(instance.iAllYearSteps_YS):
                     if (objZone.sZone, iYS) in objMarket.dicCO2Emission_ZNL_YS:
                         fValue = objMarket.dicCO2Emission_ZNL_YS[objZone.sZone, iYS] / 1000
@@ -645,7 +645,7 @@ def outputAllMarketResults(instance, objMarket, directory):
                 output.append(out_row)
                 
                 # CCS caoture
-                out_row = [objZone.sZone, objZone.sZoneID, "Emission (K.Tonnes)", "CCS sequestration"]
+                out_row = [objZone.sZone, objZone.sZoneID, "CO2 Emission (K.Tonnes)", "CCS sequestration"]
                 for ind_YS, iYS in enumerate(instance.iAllYearSteps_YS):
                     if (objZone.sZone, iYS) in objMarket.dicCCSCapture_ZNL_YS:
                         fValue = objMarket.dicCCSCapture_ZNL_YS[objZone.sZone, iYS] / 1000
@@ -791,12 +791,12 @@ def outputAllMarketResults(instance, objMarket, directory):
         output.append(out_row)
 
         ### emission
-        out_row = ["Carbon Emission","K.Tonnes"]   
+        out_row = ["CO2 Emission","K.Tonnes"]   
         for ind_YS, iYS in enumerate(instance.iAllYearSteps_YS):
             out_row.append( format(dicCountrySummary_CN_IT[sCountry,"Emission_Net"][ind_YS], ".0f") )
         output.append(out_row)
         
-        out_row = ["Carbon Sequestration","K.Tonnes"]   
+        out_row = ["CO2 Sequestration","K.Tonnes"]   
         for ind_YS, iYS in enumerate(instance.iAllYearSteps_YS):
             out_row.append( format(dicCountrySummary_CN_IT[sCountry,"Emission_Sequ"][ind_YS], ".0f") )
         output.append(out_row)
