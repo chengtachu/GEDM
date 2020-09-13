@@ -1,6 +1,6 @@
 Item,Argument1,Argument2,Argument3,Argument4,Argument5,Argument6,Argument7,Argument8,note
 InstanceDescription,,,,,,,,,
 ReDevSen,DEF,,,,,,,,Renewable development senario:  DEF / MCP / CNS
-MinExistUnitCF,0.9,0.8,0.6,0.4,0.2,0.1,0.1,0.1,Minimum CF of existing dispatchable units (base year) in each period step. Up to 8 periods. First argument is base year. The setting can be empty.
-ImportPrice,0.3,,,,,,,,Electricity import price in USD per kWh. This import from other markets is slack variable to ensure most problem can be solvable.
-EnergySpillCost,0.01,,,,,,,,Energy spill cost in USD per kWh. This parameter can discourage excessive spill in most case.
+MinExistUnitCF,0.9,0.8,0.6,0.4,0.2,0.1,,,"Minimum generation ratio of existing generators in each time period step compared to base year generation. This minimum generation setting is to aviod unreasonable drop or surge of generation from existing generators. This setting link to base year generation assumption in Input/5_calibration/Zone_BaseYear_CF/. The first argument is the base year. It is not recommend to set 1 for base year, because improper base year generation assumptions will make the problem unsolvable. You can configure up to 8 periods, however, you can left them empty to ignore base year calibration."
+ImportPrice,0.3,,,,,,,,"Electricity import price in USD per kWh. The electricity imports from other markets are variables to ensure most problem can be solvable, if there exists transmission links with other zones outside the current market. (This import should not be confused with the transmission between the zones within the current market."
+EnergySpillCost,0.01,,,,,,,,Energy spill cost in USD per kWh. This parameter can discourage excessive spill in most cases.

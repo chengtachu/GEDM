@@ -1,9 +1,9 @@
 Country/District Code,Zone_Code,Zone_Type,Market_Code
-TWN,TWN.Central,Terrestrial,TWN
-TWN,TWN.East,Terrestrial,TWN
-TWN,TWN.North,Terrestrial,TWN
-TWN,TWN.OffRgn1,Offshore,TWN
-TWN,TWN.OffRgn2,Offshore,TWN
-TWN,TWN.OffRgn3,Offshore,TWN
-TWN,TWN.OffRgn4,Offshore,TWN
-TWN,TWN.South,Terrestrial,TWN
+TWN,TWN.Central,Terrestrial,Case1
+TWN,TWN.East,Terrestrial,Case1
+TWN,TWN.North,Terrestrial,Case1
+TWN,TWN.OffRgn1,Offshore,Case1
+TWN,TWN.OffRgn2,Offshore,Case1
+TWN,TWN.OffRgn3,Offshore,Case1
+TWN,TWN.OffRgn4,Offshore,Case1
+TWN,TWN.South,Terrestrial,Case1

@@ -33,9 +33,10 @@ GEDM has been tested on Windows. Running GEDM requires the following environment
 Using this tool by following these steps:
 1. install the requirements above
 2. download or clone the GEDM repository
-3. construct a case by editing the input files (you can start with modifying the sample case)
-4. run the model `$ Python scripts/GEDM.py`
-5. check the output files
+3. check the solver option file "/Input/1_model_config/01_SolverConfig.csv"
+4. construct a case by editing the input files (you can start with the sample case)
+5. run the model `$ Python scripts/GEDM.py`
+6. check the output files
 
 Users are expected to have experiences on Python. The main reason is that when infeasible solutions returned, the users may want greater control over the program flow and the models to find the causes, more than changing the settings and assumption. In addition, Pyomo and solvers may occasionally have compatible issues. It would require some Python experience and change the codes to solve it.
 

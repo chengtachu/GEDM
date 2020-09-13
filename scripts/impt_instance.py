@@ -41,7 +41,7 @@ def get_ReDevScenario():
     """ get model scenario configuration """
     
     file_country = "../Input/1_model_config/02_ModelConfig.csv"
-    dt_data = genfromtxt(file_country, dtype = str, skip_header=0, delimiter=',')
+    dt_data = genfromtxt(file_country, dtype = str, skip_header=0, delimiter='#')
     sReDevSetting = "DEF"
     for sSetting in dt_data:
         if sSetting[0] == "ReDevSen":
@@ -264,7 +264,7 @@ def get_MinExistUnitCF():
     """ get setting of minimum CF of existing dispatchable units """
     
     file_country = "../Input/1_model_config/02_ModelConfig.csv"
-    dt_data = genfromtxt(file_country, dtype = str, skip_header=0, delimiter=',')
+    dt_data = genfromtxt(file_country, dtype = str, skip_header=0, delimiter='#')
     iMinCF = []
     for sSetting in dt_data:
         if sSetting[0] == "MinExistUnitCF":
@@ -279,7 +279,7 @@ def get_ImportPrice():
     """ get electricity import price (import from other market) """
     
     file_country = "../Input/1_model_config/02_ModelConfig.csv"
-    dt_data = genfromtxt(file_country, dtype = str, skip_header=0, delimiter=',')
+    dt_data = genfromtxt(file_country, dtype = str, skip_header=0, delimiter='#')
     iImportPrice = 0.3
     for sSetting in dt_data:
         if sSetting[0] == "ImportPrice":
@@ -292,7 +292,7 @@ def get_EnergySpillCost():
     """ get electricity spill cost """
     
     file_country = "../Input/1_model_config/02_ModelConfig.csv"
-    dt_data = genfromtxt(file_country, dtype = str, skip_header=0, delimiter=',')
+    dt_data = genfromtxt(file_country, dtype = str, skip_header=0, delimiter='#')
     iCost = 0.01
     for sSetting in dt_data:
         if sSetting[0] == "EnergySpillCost":
