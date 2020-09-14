@@ -446,16 +446,16 @@ def get_MarketTransmission(instance, objMarket):
 
         for zone in objMarket.lsZone:
 
-            if zone.sZone == zone_ter[4] or zone.sZone == zone_ter[5]:
+            if zone.sZone == zone_ter[2] or zone.sZone == zone_ter[3]:
                 FromID = ""
                 ToID = ""
                 # get zoneID
                 for objZone in objMarket.lsZone:
-                    if zone_ter[4] == objZone.sZone:
+                    if zone_ter[2] == objZone.sZone:
                         FromID = objZone.sZoneID
                         break
                 for objZone in objMarket.lsZone:
-                    if zone_ter[5] == objZone.sZone:
+                    if zone_ter[3] == objZone.sZone:
                         ToID = objZone.sZoneID
                         break
                 
@@ -473,14 +473,14 @@ def get_MarketTransmission(instance, objMarket):
                         break
                         
                 if bDupicate == False:
-                    fDist = float(zone_ter[8])
-                    fBaseCap = float(zone_ter[9])
+                    fDist = float(zone_ter[6])
+                    fBaseCap = float(zone_ter[7])
                     # if the base year connection exist, set a minimal 100MW NTC
                     # the value will be updated
-                    if zone_ter[6] == "1":
+                    if zone_ter[4] == "1":
                         fBaseCap = max( fBaseCap, 100 )
                     objTrans = cls_misc.Transmission( From=FromID, To=ToID, \
-                        Dist=fDist, Conn2015=zone_ter[6], BaseCap=fBaseCap )
+                        Dist=fDist, Conn2015=zone_ter[4], BaseCap=fBaseCap )
                     objMarket.lsTrans.append(objTrans)
                 
                 break
