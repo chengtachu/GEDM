@@ -1,4 +1,5 @@
 
+
 ## Input Files Description
 
 ### folder path: /Input/
@@ -46,44 +47,44 @@ It is possible to customize this setting, as it has been done for the CE model. 
 #### file: 05_TimeSlice_CE.csv
 Users are free to restructure the time-slices. Starting from the existing example is recommended.
 - time-slices in data row 
-- column 1 TSIndex: index of time-slices **in numerical order**, integer 1 ~
-- column 2 Month: use bracketed number to represent the month e.g. [2] or [4][5][6] or [12][1]
-- column 3 Day: use bracketed number to represent the day of the month. The default value "**Weekday**" means no separation on the day of the month.
-- column 4 Hour: use bracketed number to represent the hour in the day e.g. [0][1][2] or [18]
-- column 5 DayIndex: index of the representative day in this time-slice configurations, **in numerical order**
-- column 6 RepDayInYear: number of days this representative days represent in a year
-- column 7 RepHoursInDay: number of hours this time-slice represents in its representative days
-- column 8 RepHoursInYear: total representative hours of this time-slice in a year. The value equal to **RepDayInYear x RepHoursInDay**.
+- column 1: TSIndex: index of time-slices **in numerical order**, integer 1 ~
+- column 2: Month: use bracketed number to represent the month e.g. [2] or [4][5][6] or [12][1]
+- column 3: Day: use bracketed number to represent the day of the month. The default value "**Weekday**" means no separation on the day of the month.
+- column 4: Hour: use bracketed number to represent the hour in the day e.g. [0][1][2] or [18]
+- column 5: DayIndex: index of the representative day in this time-slice configurations, **in numerical order**
+- column 6: RepDayInYear: number of days this representative days represent in a year
+- column 7: RepHoursInDay: number of hours this time-slice represents in its representative days
+- column 8: RepHoursInYear: total representative hours of this time-slice in a year. The value equal to **RepDayInYear x RepHoursInDay**.
 
 ###### &nbsp;
 #### Market Structure
 #### file: 11_MarketStruct.csv
 The modelling instance is on market basis. A market may consists of several countries/districts and sub-country zones. The smallest geographical representation area is defined as a “zone”. The hierarchy is: market > country/district > zone. 
 - zones in data row 
-- column 1 Country/District code
-- column 2 Zone_Code: critical index, in the form "**(country code).(zone code)**", e.g. GBR.Scotland or GBR.OffRgn1
-- column 3 Zone_Type: can only be Terrestrial or Offshore
-- column 4 Market_Code: arbitrary name of this market
+- column 1: Country/District code
+- column 2: Zone_Code: critical index, in the form "**(country code).(zone code)**", e.g. GBR.Scotland or GBR.OffRgn1
+- column 3: Zone_Type: can only be Terrestrial or Offshore
+- column 4: Market_Code: arbitrary name of this market
 
 ###### &nbsp;
 #### Assumption Group
 #### file: 21_CountryAssumpGroup.csv
 Several assumptions are configured at country level, including techno-economic assumptions of the technologies, carbon cost projection, fuel costs and reserve requirements. Users should assign these assumptions in groups. The grouping allows changing the assumptions in a big market or region easier.
 - country/district in data row 
-- column 1 Country/District name (arbitrary)
-- column 2 Country/District code
-- column 3 Region (currently not used)
-- column 4 TechCostGroup: techno-economic assumptions group
-- column 5 CarbonCostGroup: carbon cost assumptions group
-- column 6 AncillaryGroup: reserve services assumptions group
+- column 1: Country/District name (arbitrary)
+- column 2: Country/District code
+- column 3: Region (currently not used)
+- column 4: TechCostGroup: techno-economic assumptions group
+- column 5: CarbonCostGroup: carbon cost assumptions group
+- column 6: AncillaryGroup: reserve services assumptions group
 
 ###### &nbsp;
 #### Time Zone
 #### file: 22_Zone_TimeZone.csv
 set the time zone for every zone in the market. Note that all modelling work and the outputs is based on GMT time or UTC+0.
 - zone in data row 
-- column 1 Country/District code
-- column 2 zone code
-- column 3 time zone: a number **between -12 and 12**, the UTC time zone
+- column 1: Country/District code
+- column 2: zone code
+- column 3: time zone: a number **between -12 and 12**, the UTC time zone
 
 

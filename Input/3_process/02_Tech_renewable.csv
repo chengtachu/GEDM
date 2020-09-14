@@ -1,4 +1,4 @@
-ProcessName,RegionGroup,Parameters,Unit,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060
+ProcessName,TechCostGroup,Parameters,Unit,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060
 HYD_LG,Europe,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
 HYD_LG,United States,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50
 HYD_LG,Japan,UnitCapacity,MW,50,50,50,50,50,50,50,50,50,50

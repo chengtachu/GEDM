@@ -135,7 +135,7 @@ class Instance:
                 impt_zone.get_ZoneProcessDispBaseCF(self, objZone)                    
                 
                 # model CP 70% renewable development pathway
-                impt_zone.get_ZoneMCP70Pathway(self, objZone)
+                impt_zone.get_ZoneMCPPathway(self, objZone)
                 
             for objZone in objMarket.lsZoneOffs:
                 
@@ -146,7 +146,7 @@ class Instance:
                 impt_zone.get_ZoneExistingProcess_offs(self, objZone)
                 
                 # model CP 70% renewable development pathway
-                impt_zone.get_ZoneMCP70Pathway(self, objZone)
+                impt_zone.get_ZoneMCPPathway(self, objZone)
                     
         return
 

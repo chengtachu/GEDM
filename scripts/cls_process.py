@@ -27,7 +27,7 @@ class ProcessAssump:
         self.sProcessType = str( kwargs["ProcessType"] )
         self.sProcessFullName = str( kwargs["ProcessFullName"] )
         self.sFuel = str( kwargs["Fuel"] )
-        self.sOperationMode = str( kwargs["OperationMode"] )    # Dispatch, NonDispatch, LimitDispatch, Storage
+        self.sOperationMode = str( kwargs["OperationMode"] )    # Dispatch, NonDispatch, Storage
         self.bCCS = int( kwargs["CCS"] )
         self.bAS_T1 = int( kwargs["AS_T1"] )
         self.bAS_T2 = int( kwargs["AS_T2"] )

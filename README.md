@@ -110,7 +110,7 @@ folder path: /Input/4_policy/
 | 03_AncillaryService.csv | set ancillary service requirements (percentage to power demand) |
 | 04_FixedNewBuild_dispatch.csv | set fixed new installation capacity of dispatchable technologies  |
 | 05_CNS_EmissionLimits.csv | set the CO2 emissions limits in the CNS scenario  |
-| /RE_MCP70/\*.csv | set the optimal renewable mix projections of each country/district applied in MCP scenario |
+| /RE_MCP/\*.csv | set the optimal renewable mix projections of each country/district applied in MCP scenario |
 
 **Existing capacity and calibration**
 

@@ -286,14 +286,14 @@ def get_ZonePVLandLimit(instance, objZone):
     return
 
 
-def get_ZoneMCP70Pathway(instance, objZone):
-    ''' import optimal renewable mix of 70% penetration for MCP scenario '''
+def get_ZoneMCPPathway(instance, objZone):
+    ''' import renewable installation limits for MCP scenario '''
     
     sZone = objZone.sZone
     sCountry = objZone.sCountry
     
     # import renewable capacity limit by class in the zone
-    file_data = "../Input/4_policy/RE_MCP70/" + sCountry + ".csv"
+    file_data = "../Input/4_policy/RE_MCP/" + sCountry + ".csv"
     zone_re = genfromtxt(file_data, dtype = str, skip_header=0, delimiter=',')
             
     # year step period in the original setting
