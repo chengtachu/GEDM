@@ -370,7 +370,7 @@ def get_CountryRenInstallLimit(instance):
 
     ### limits applied on if the setting year matches the time period 
     # minimum installation capacity
-    file_cdata = "../Input/8_VRE/01_RE_Min_Install.csv"
+    file_cdata = "../Input/8_VRE/01_RE_Min_Add.csv"
     zone_ReMin = genfromtxt(file_cdata, dtype = str, skip_header=0, delimiter=',')
     header = zone_ReMin[0]
     for objCountry in instance.lsCountry:
@@ -383,7 +383,7 @@ def get_CountryRenInstallLimit(instance):
                             objCountry.dicRenMinInstall[tech_type,header[ind_col]] = float(tech_cap)
           
     # maximum installation capacity    
-    file_cdata = "../Input/8_VRE/02_RE_Max_Install.csv"
+    file_cdata = "../Input/8_VRE/02_RE_Max_Add.csv"
     zone_ReMax = genfromtxt(file_cdata, dtype = str, skip_header=0, delimiter=',')
     header = zone_ReMax[0]
     for objCountry in instance.lsCountry:

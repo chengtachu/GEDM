@@ -143,8 +143,8 @@ folder path: /Input/7_demand/
 folder path: /Input/8_VRE/
 | File | Description |
 | ------ | ------ |
-| 01_RE_Min_Install.csv | set minimum installation capacity of renewables by year |
-| 02_RE_Max_Install.csv | set maximum installation capacity of renewables by year |
+| 01_RE_Min_Add.csv | set minimum addition capacity of renewables by year |
+| 02_RE_Max_Add.csv | set maximum addition capacity of renewables by year |
 | 03_RE_Hydro_Max_Cap.csv | set maximum installation capacity of hydropower |
 | 04_RE_Biomass_Max_Pot.csv | set maximum supply of total biofuel supply by year |
 | /CF288/\*.csv | capacity factors of renewables in default 288 time-slices |
