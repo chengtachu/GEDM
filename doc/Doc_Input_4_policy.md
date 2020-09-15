@@ -28,7 +28,7 @@ Set carbon cost projections for each cost group.
 | Spatial coverage | assumption groups assigned to each country in the market |  |
 | Temporal resolution | annual value |  |
 | Unit | USD/tCO2e |  |
-| Data in column | time period steps | cover the time horizon, longer projection is recommended |
+| Data in column | time period steps | the periods is flexible, 5-years interval is suggested |
 | Data in row | carbon cost groups |  |
 
 ###### &nbsp;
@@ -40,7 +40,7 @@ Set the requirements of reserve services, which is  a percentage to power demand
 | Spatial coverage | assumption groups assigned to each country in the market |  |
 | Temporal resolution | annual value |  |
 | Unit | % |  normally between 0-10 |
-| Data in column | time period steps | cover the time horizon, longer projection is recommended |
+| Data in column | time period steps | the periods is flexible, 5-years interval is suggested |
 | Data in row | assumption groups > reserve types | three reserve types: "Primary", "Secondary" and "Tertiary". Their requirements on response time is configurable in the third column. |
 
 ###### &nbsp;

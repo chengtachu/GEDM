@@ -39,6 +39,6 @@ Assumptions on fuel cost projections associated to the cost groups.
 | Spatial coverage | cost groups assigned to each country in the market |  |
 | Temporal resolution | annual value |  |
 | Unit | USD/GJ |  |
-| Data in column | time period steps | cover the time horizon, longer projection is recommended |
+| Data in column | time period steps | the periods is flexible, 5-years interval is suggested |
 | Data in row | cost groups |  |
 

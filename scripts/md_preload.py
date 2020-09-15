@@ -606,7 +606,7 @@ def CE_initRenInstallLimits(instance, objMarket, ind_year):
         if objZone.sCountry not in lsCountryList:
             lsCountryList.append(objZone.sCountry )
     
-    # data items map to IRENA data
+    # data items
     lsRenewable = [ "WND_ON", "WND_OFF", "PV", "CSP", "HYD", "GEO_hydro", "BIO_ST" ]
     
     for objCountry in instance.lsCountry:

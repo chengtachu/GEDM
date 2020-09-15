@@ -31,8 +31,9 @@ The technical assumptions of the tech-cost groups.
 | Spatial coverage | tech-cost groups assigned to each country in the market |  |
 | Temporal resolution | annual value |  |
 | Unit | various, shown in the fourth column |  |
-| Data in column | time period steps | cover the time horizon, longer projection is recommended |
+| Data in column | time period steps | the periods is flexible, 5-years interval is suggested |
 | Data in row | technology > tech-cost group > assumptions\* |  |
+
 \* The necessary assumptions are: **UnitCapacity**: capacity of a single generator; **Gross_Eff**: gross efficiency of power generation; **RampRate**: power ramp rate of the generator; **EquAvailFactor**: equivalent available factor; **AuxiliaryCon**: auxiliary consumption; **CaptureRate**(SSC only): CCS capture rate; **Duration**(storage technology only): storage system duration hour;
 
 ###### &nbsp;
@@ -44,8 +45,9 @@ The cost assumptions of the tech-cost groups.
 | Spatial coverage | tech-cost groups assigned to each country in the market |  |
 | Temporal resolution | annual value |  |
 | Unit | various, shown in the fourth column |  |
-| Data in column | time period steps | cover the time horizon, longer projection is recommended |
+| Data in column | time period steps | the periods is flexible, 5-years interval is suggested |
 | Data in row | technology > tech-cost group > assumptions\* |  |
+
 \* The necessary assumptions are: **CAPEX**: capital cost; **OPEX**: fixed operation and maintenance cost; **varOPEX**: variable operation and maintenance cost; **Lifetime**: service life of a generator; 
 
 ###### &nbsp;
@@ -57,7 +59,7 @@ An universal technical and cost assumptions of transmission applied in the model
 | Spatial coverage | NA |  |
 | Temporal resolution | annual value |  |
 | Unit | various, shown in the third column |  |
-| Data in column | time period steps | cover the time horizon, longer projection is recommended |
+| Data in column | time period steps | the periods is flexible, 5-years interval is suggested |
 | Data in row | assumption items | transmission losses, converter losses, CAPEX, OPEX |
 
 

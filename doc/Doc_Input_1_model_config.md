@@ -34,7 +34,9 @@ Addition model settings that are covered in other files.
 #### file: 03_YearStep.csv
 - one row; the second column is **base year**, other steps follow
 - the step interval can be variable, e.g. 2015, 2018, 2020, 2022, 2025, 2030
-- **make sure the setting in other assumption files can cover this time horizon** (the steps don't need to be aligned)
+- **make sure the setting in other assumption files can cover this time horizon** 
+- when the steps are not aligned with the other assumption files, linear intepolation applied
+- **users can always change the steps and horizone here without modifying any other assumption files**
 
 ###### &nbsp;
 #### Time-Slices in ED model

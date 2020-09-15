@@ -11,25 +11,25 @@
 ###### &nbsp;
 #### Renewable minimum addition
 #### file: 01_RE_Min_Install.csv
-Set minimum addition capacity of renewables in every period steps. Leave the cell empty to ignore the constraints. The constraints will be ignored in **MCP** scenario.
+Set minimum capacity addition of renewables in every period steps. Leave the cell empty to ignore the constraints. The constraints will be ignored in **MCP** scenario.
 | Table structure | Setting | Note |
 | ------ | ------ | ------ |
 | Spatial coverage | countries/districts | country-wide assumption |
 | Temporal resolution | annual |  |
 | Unit | MW |  |
-| Data in column | time period steps | interpolation applied if the steps here do not match the model instance setting  |
+| Data in column | time period steps | the periods is flexible, 5-years interval is suggested |
 | Data in row | country > renewable technologies | all output tranches of the a technology are aggregated |
 
 ###### &nbsp;
 #### Renewable maximum addition
 #### file: 02_RE_Max_Install.csv
-Set minimum addition capacity of renewables in every period steps. Leave the cell empty to ignore the constraints. The constraints will be ignored in **MCP** scenario.
+Set minimum capacity addition of renewables in every period steps. Leave the cell empty to ignore the constraints. The constraints will be ignored in **MCP** scenario.
 | Table structure | Setting | Note |
 | ------ | ------ | ------ |
 | Spatial coverage | countries/districts | country-wide assumption |
 | Temporal resolution | annual |  |
 | Unit | MW |  |
-| Data in column | time period steps | interpolation applied if the steps here do not match the model instance setting |
+| Data in column | time period steps | the periods is flexible, 5-years interval is suggested |
 | Data in row | country > renewable technologies | all output tranches of the a technology are aggregated |
 
 ###### &nbsp;
@@ -53,7 +53,7 @@ Set maximum supply of biomass (only for power generation) in a country/district.
 | Spatial coverage | countries/districts | country-wide assumption |
 | Temporal resolution | annual |  |
 | Unit | TJ |  |
-| Data in column | time period steps | interpolation applied if the steps here do not match the model instance setting |
+| Data in column | time period steps | the periods is flexible, 5-years interval is suggested |
 | Data in row | country |  |
 
 ###### &nbsp;
