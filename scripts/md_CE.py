@@ -42,17 +42,23 @@ def model_CE(instance, objMarket, ind_year):
     # constraints and objective function
     _formulation_CE(model, instance, objMarket, ind_year)
 
-    ### solve the LP problem in GAMS by default for problem Opt_cost
-    opt = pe.SolverFactory(instance.sSolver, solver_io='direct')
+    ### solve the LP problem  
+    if instance.sSolver == "gams":
+        opt = pe.SolverFactory(instance.sSolver, solver_io='direct')
+        
+        # set pyomo options
+        for sDicKey in instance.dicPyomoOption:
+            opt.options[sDicKey] = instance.dicPyomoOption[sDicKey]
+        
+        # set solver options
+        lsSolverOption  = []
+        for sDicKey in instance.dicSolverOption:
+            lsSolverOption.append( sDicKey + " = " + instance.dicSolverOption[sDicKey] + ";" ) 
+        opt.options['add_options'] = lsSolverOption
     
-    for sDicKey in instance.dicPyomoOption:
-        opt.options[sDicKey] = instance.dicPyomoOption[sDicKey]
-        
-    lsSolverOption  = []
-    for sDicKey in instance.dicSolverOption:
-        lsSolverOption.append( sDicKey + " = " + instance.dicSolverOption[sDicKey] + ";" ) 
-    opt.options['add_options'] = lsSolverOption
-        
+    else:
+        opt = pe.SolverFactory(instance.sSolver)
+   
     results = opt.solve(model)
     #results.write()
     

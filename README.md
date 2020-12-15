@@ -27,7 +27,8 @@ GEDM has been tested on Windows. Running GEDM requires the following environment
 - the [Python3](https://www.python.org/downloads/release/python-368/) programming language (version 3.6 or greater)
 - Python modules and their dependencies: [Numpy](https://github.com/numpy/numpy), [Pyomo](https://github.com/Pyomo/pyomo)
 - installing a mathematical problem solver: GEDM has been tested with [GAMS](https://www.gams.com/) and [GLPK](https://www.gnu.org/software/glpk/) (It is possible to use other solvers in this framework if Pyomo supports the interface.)
-- installing [Python API for GAMS](https://www.gams.com/latest/docs/API_PY_TUTORIAL.html) when using GAMS language and solver
+- installing [Python API for GAMS](https://www.gams.com/latest/docs/API_PY_TUTORIAL.html) when using GAMS as default solver (GAMS software required)
+- download [GLPK](https://www.gnu.org/software/glpk/) solver and set sytem environment variable "Path" to the folder when using GLPK as default solver
 
 ### Getting started
 Using this tool by the following steps:

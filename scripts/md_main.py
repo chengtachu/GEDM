@@ -119,23 +119,27 @@ def _model_ED(instance, objMarket, ind_year, objDay):
     # constraints and objective function
     _formulation_ED(model, instance, objMarket, ind_year)
 
-    ### solve the LP problem
-    opt = pe.SolverFactory(instance.sSolver, solver_io='direct')
+    ### solve the LP problem  
+    if instance.sSolver == "gams":
+        opt = pe.SolverFactory(instance.sSolver, solver_io='direct')
+        
+        # set pyomo options
+        for sDicKey in instance.dicPyomoOption:
+            opt.options[sDicKey] = instance.dicPyomoOption[sDicKey]
+        
+        # set solver options
+        lsSolverOption  = []
+        for sDicKey in instance.dicSolverOption:
+            lsSolverOption.append( sDicKey + " = " + instance.dicSolverOption[sDicKey] + ";" ) 
+        opt.options['add_options'] = lsSolverOption
     
-    # set pyomo options
-    for sDicKey in instance.dicPyomoOption:
-        opt.options[sDicKey] = instance.dicPyomoOption[sDicKey]
-    
-    # set solver options
-    lsSolverOption  = []
-    for sDicKey in instance.dicSolverOption:
-        lsSolverOption.append( sDicKey + " = " + instance.dicSolverOption[sDicKey] + ";" ) 
-    opt.options['add_options'] = lsSolverOption
+    else:
+        opt = pe.SolverFactory(instance.sSolver)
     
     # solving the problem
     results = opt.solve(model)
     #results.write()
-    
+
     # process model results
     sModelStatus = _modelResult_ED(model, results, instance, objMarket, objDay)
 
